@@ -1,1 +1,2 @@
 # odin-recipes
+This is going to be a Websbite that is going to display Different types of recipes that you can cook in your home. Features that will be added is a visual for each recipe, And a colorful website. 
